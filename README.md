@@ -23,7 +23,7 @@ Begin by using ASAPs guided experience to create your first build configuration.
 #### Create Configuration File
 * Run ASAP
     ````
-    pwsh ./asap.ps1
+    ./asap.ps1
     ````
 * Select option 1 to create a build file.
     * Choose Type
@@ -44,35 +44,35 @@ Choose ASAPs guided or cli experience
 #### Guided
 * Run ASAP
     ````
-    pwsh ./asap.ps1
+    ./asap.ps1
     ````
     or 
     ````
-    pwsh ./asap.ps1 -Configuration ./configurations/<configuration-file.csv>
+    ./asap.ps1 -Configuration ./configurations/<configuration-file.csv>
     ````
 
 
 #### CLI
 * Review Build File
     ````
-    pwsh ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action review
+    ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action review
     ````
 * Edit Build File
     ````
-    pwsh ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action edit
+    ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action edit
     ````
 * Deploy Build (Requires -Force parameter)
     ````
-    pwsh ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action deploy -Force
+    ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action deploy -Force
     ````
 * Build Information
 Use this command post deployment to get information related to your build.
     ````
-    pwsh ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action information
+    ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action information
     ````
 * Destroy Build (Requires -Force parameter)
     ````
-    pwsh ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action destroy -Force
+    ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action destroy -Force
     ````
 
 ## Configuration Notes
