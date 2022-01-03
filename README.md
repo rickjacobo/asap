@@ -5,9 +5,12 @@ Under the hood, ASAP relies on trusted tools like Docker and PowerShell. ASAP wo
 
 ## What is ASAP
 ASAP is a set of tools written in PowerShell and delivered via Docker Hub and Github.
+
 In order to maintain the integrity of the toolset across all platforms and avoid "It works on my computer. I'm not sure why it's not working on your computer." problem ASAP is deployed as a container via Docker Hub.
+
 The ASAP container is controlled with a set of scripts that interact with Docker and can be dowloaded via Git at Github.
-To run ASAP you will need Docker, PowerShell 7.0 Core, Git, and access to a functional VMware vCenter deployment.
+
+To run ASAP you will need Docker, PowerShell 7.0 Core, Git, access to a functional VMware vCenter deployment, and a VM template.
 
 ## Minimum Requirements
 * [Docker](https://www.docker.com/get-started)
