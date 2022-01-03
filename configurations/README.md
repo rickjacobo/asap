@@ -17,7 +17,7 @@
 * Snapshot
     * [name of VM Clone Snaptshot] # This will be the name of an existing snapshot of the SnapshotVM
 
-#### Template (cloud = vmware)
+#### Template Fields (cloud = vmware)
 * Type
     * [template]
 * Cloud
