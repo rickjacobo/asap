@@ -5,34 +5,21 @@ Under the hood, ASAP relies on trusted tools like Docker and PowerShell.
 
 ASAP works with Windows, MacOS and Linux.
 
-### Build
-
-Build your environment with the simplicity of a CSV file
-
-### Document
-
-Your stack is automatically documented as part of the deployment process
-
-### Deploy
-
-Automated deployments help to reduce time and mistakes
-
 ## What is ASAP
 ASAP is a set of tools written in PowerShell and delivered via Docker Hub and Github.
 In order to maintain the integrity of the toolset across all platforms and avoid "It works on my computer. I'm not sure why it's not working on your computer." problem ASAP is deployed as a container via Docker Hub.
 The ASAP container is controlled with a set of scripts that interact with Docker and can be dowloaded via Git at Github.
 To run ASAP you will need Docker, PowerShell 7.0 Core, Git, and access to a functional VMware vCenter deployment.
 
-## Why?
-There are a lot of tools that help you automate.
-With ASAP I wanted to abstract the complexity from traditional scripted automation while providing some additional value.
-Over the course of my career I've noticed the barrier of entry to scripting tools. And, while they are necessary for work, the complexity of scripting is often a turn off when it comes to automation.
-Not only does ASAP make it easy to automate - it also creates documentation as part of the deployment process.
-
 ## Minimum Requirements
 * [Docker](https://www.docker.com/get-started)
 * [PowerShell 7.0 Core](https://github.com/PowerShell/PowerShell)
 * [Git](https://git-scm.com/downloads)
+* Access to a functional VMware vCenter deployment
+* [VMware Templates](https://docs.vmware.com/en/VMware-vSphere/6.0/com.vmware.vsphere.hostclient.doc/GUID-846238E4-A1E3-4A28-B230-33BDD1D57454.html)
+  * Get started quickly by converting an existing VM into a template
+
+# Getting Started
 
 ## Download Bits
 ````
