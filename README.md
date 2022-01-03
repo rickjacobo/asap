@@ -1,7 +1,5 @@
 # Automate with ASAP
 
-<img src="https://automatewithasap.com/assets/images/AutomateWithASAP.png" width="50%">
-
 ## Deploy Faster. Deploy Better.
 ASAP helps you deploy quickly and more efficiently. Whether you are building development environments in your home lab or full stacks in production, ASAP will help you deploy faster and better.
 
@@ -15,6 +13,8 @@ In order to maintain the integrity of the toolset across all platforms and avoid
 The ASAP container is controlled with a set of scripts that interact with Docker and can be dowloaded via Git at Github.
 
 To run ASAP you will need Docker, PowerShell 7.0 Core, Git, access to a functional VMware vCenter deployment, and a VM template.
+
+<img src="https://automatewithasap.com/assets/images/AutomateWithASAP.png" width="50%">
 
 ## Minimum Requirements
 * [Docker](https://www.docker.com/get-started)
