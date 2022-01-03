@@ -1,6 +1,8 @@
 ## Deploy Faster. Deploy Better.
 ASAP helps you deploy quickly and more efficiently. Whether you are building development environments in your home lab or full stacks in production, ASAP will help you deploy faster and better.
+
 Under the hood, ASAP relies on trusted tools like Docker and PowerShell.
+
 ASAP works with Windows, MacOS and Linux.
 
 ### Build
