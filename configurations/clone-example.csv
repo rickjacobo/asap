@@ -1,2 +1,2 @@
 Type,Cloud,ComputerName,VMHost,Datastore,SnapshotVM,Snapshot
-clone,vmware,NameOfYourVM,FullOrPartialVMHostName,FullOrPartialDatastoreName,VMToClone,SnapshotFromVMToClone
+clone,vmware,Name_Of_Your_VM,Full_Or_Partial_VMHost_Name,Full_Or_Partial_Datastore_Name,VM_To_Clone,Snapshot_From_VM_To_Clone
