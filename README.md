@@ -1,5 +1,7 @@
 # Automate with ASAP
 
+![AutomateWithASAP](https://automatewithasap.com/assets/images/AutomateWithASAP.png)
+
 ## Deploy Faster. Deploy Better.
 ASAP helps you deploy quickly and more efficiently. Whether you are building development environments in your home lab or full stacks in production, ASAP will help you deploy faster and better.
 
