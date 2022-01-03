@@ -1,0 +1,2 @@
+Type,Cloud,ComputerName,VMHost,Datastore,NetworkName,MemoryGB,NumCpu,Template,AdditionalDiskGB
+template,vmware,Name_Of_Your_VM,Full_Or_Partial_VMHost_Name,Full_Or_Partial_Datastore_Name,Full_Network_Name,MemoryGB,NumCPU,Template_Name,Empty_0_or_More
