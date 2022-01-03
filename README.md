@@ -1,5 +1,5 @@
 # Automate with ASAP
-
+<img src="https://automatewithasap.com/assets/images/AutomateWithASAP.png" width="100%">
 ## Deploy Faster. Deploy Better.
 ASAP helps you deploy quickly and more efficiently. Whether you are building development environments in your home lab or full stacks in production, ASAP will help you deploy faster and better.
 
@@ -22,9 +22,6 @@ To run ASAP you will need Docker, PowerShell 7.0 Core, Git, access to a function
 * Access to a functional VMware vCenter deployment
 * [VMware Templates](https://docs.vmware.com/en/VMware-vSphere/6.0/com.vmware.vsphere.hostclient.doc/GUID-846238E4-A1E3-4A28-B230-33BDD1D57454.html)
   * Get started quickly by converting an existing VM into a template
-
-
-[![Automate With ASAP](https://automatewithasap.com/assets/images/AutomateWithASAP.png)](https://automatewithasap.com/assets/videos/asap.mp4 "Watch Video")
 
 
 # Getting Started
