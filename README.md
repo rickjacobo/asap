@@ -14,7 +14,6 @@ The ASAP container is controlled with a set of scripts that interact with Docker
 
 To run ASAP you will need Docker, PowerShell 7.0 Core, Git, access to a functional VMware vCenter deployment, and a VM template.
 
-<img src="https://automatewithasap.com/assets/images/AutomateWithASAP.png" width="100%">
 
 ## Minimum Requirements
 * [Docker](https://www.docker.com/get-started)
@@ -23,6 +22,8 @@ To run ASAP you will need Docker, PowerShell 7.0 Core, Git, access to a function
 * Access to a functional VMware vCenter deployment
 * [VMware Templates](https://docs.vmware.com/en/VMware-vSphere/6.0/com.vmware.vsphere.hostclient.doc/GUID-846238E4-A1E3-4A28-B230-33BDD1D57454.html)
   * Get started quickly by converting an existing VM into a template
+
+<img src="https://automatewithasap.com/assets/images/AutomateWithASAP.png" width="100%">
 
 # Getting Started
 
