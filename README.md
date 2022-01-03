@@ -96,6 +96,7 @@ Use this command post deployment to get information related to your build.
 # Notes
 ## Configuration Files
 ### Example Configurations
+* [Example CSV Files](https://github.com/rickjacobo/asap/tree/main/configurations)
 #### Clone Fields (Cloud = vmware)
 * Type
     * [clone]
