@@ -23,8 +23,7 @@ To run ASAP you will need Docker, PowerShell 7.0 Core, Git, access to a function
 * [VMware Templates](https://docs.vmware.com/en/VMware-vSphere/6.0/com.vmware.vsphere.hostclient.doc/GUID-846238E4-A1E3-4A28-B230-33BDD1D57454.html)
   * Get started quickly by converting an existing VM into a template
 
-<img src="https://automatewithasap.com/assets/images/AutomateWithASAP.png" width="100%">
-[![Watch the video](https://automatewithasap.com/assets/images/AutomateWithASAP.png)](https://automatewithasap.com/assets/videos/asap.mp4)
+https://automatewithasap.com/assets/videos/asap.mp4
 
 
 # Getting Started
