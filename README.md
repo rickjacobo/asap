@@ -93,8 +93,8 @@ Use this command post deployment to get information related to your build.
     ````
     ./asap.ps1 -Configuration ./configurations/<configuration-file.csv> -Action destroy -Force
     ````
-
-## Configuration Notes
+# Notes
+## Configuration Files
 ### Example Configurations
 #### Clone Fields (Cloud = vmware)
 * Type
