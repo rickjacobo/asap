@@ -24,7 +24,7 @@ To run ASAP you will need Docker, PowerShell 7.0 Core, Git, access to a function
   * Get started quickly by converting an existing VM into a template
 
 
-[![Automate With ASAP]()](https://automatewithasap.com/assets/videos/asap.mp4 "Watch Video")
+[![Automate With ASAP](https://automatewithasap.com/assets/images/AutomateWithASAP.png)](https://automatewithasap.com/assets/videos/asap.mp4 "Watch Video")
 
 
 # Getting Started
